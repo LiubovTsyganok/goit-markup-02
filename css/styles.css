@@ -1,6 +1,6 @@
 body {
 font-family: 'Roboto', sans-serif;
-font-family: var(--primary-header-color);
+color: var(--primary-header-color);
 }
 :root {
 --primary-header-color: #212121;
